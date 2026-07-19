@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"we are cooked.\""
-date: 2026-07-18
+date: 2026-07-19
 categories: persuasive
 ---
 
